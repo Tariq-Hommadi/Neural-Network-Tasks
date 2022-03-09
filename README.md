@@ -1,6 +1,6 @@
 # Neural-Network-Tasks
 
-Here are taskes implemnted using Neural Network approach such as:
+Here are some taskes implemnted using Neural Network approach such as:
 -CNN
 -RNN
 ...
